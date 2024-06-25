@@ -9,7 +9,7 @@ export function Facilities() {
         <>
             <div className=' flex justify-center max-w-full mb-6' >
                 <div className='text-center max-w-xl '>
-                    <h1 className='mt-10 mb-3 text-3xl'>School Facilities</h1>
+                    <h1 className='mt-10 mb-3 text-4xl'>School Facilities</h1>
                     <p className=''>Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
                 </div>
             </div>
