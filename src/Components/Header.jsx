@@ -7,7 +7,7 @@ export function Header(props) {
 
     return (
         <>
-            <header className="flex justify-between items-center sticky top-0 px-10 py-5 bg-white border-b border-gray-300">
+            <header className="flex justify-between items-center z-20 sticky top-0 px-10 py-5 bg-white border-b border-gray-300">
                 <div className="flex items-center">
                     <FontAwesomeIcon icon={faBookReader} className="w-10 h-10 text-orange-500" />
                     <span className="text-2xl font-bold text-orange-500 ml-2">Kider</span>

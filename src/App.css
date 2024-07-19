@@ -1,0 +1,50 @@
+.Lobster {
+    font-family: "Lobster Two", cursive;
+    font-weight: 700;
+}
+
+.lobster {
+    font-family: 'Lobster Two', cursive;
+}
+
+.bus,
+h2 {
+    color: red;
+}
+.futbol,
+h2 {
+    color: #198754;
+}
+.home,
+h2 {
+    color: #ffc107;
+}
+.board,
+h2 {
+    color: #0dcaf0;
+}
+
+.hover-effect:hover .bus-card {
+    background-color: #FE5D37;
+    color: white;
+}
+.hover-effect:hover .futbol-card {
+    background-color:#198754;
+    color: white;
+}
+.hover-effect:hover .home-card {
+    background-color:#ffc107;
+    color: white;
+}
+.hover-effect:hover .board-card {
+    background-color:#0dcaf0;
+    color: white;
+}
+.content{
+    font-family: "Heebo", sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 1;
+    color: #74787C;
+    text-align: center;
+}
