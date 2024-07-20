@@ -11,7 +11,7 @@ function Action() {
                                 style={{ objectFit: "cover" }}
                             />
                     </div>
-                    <div className=" bg-white rounded-r-3xl" data-wow-delay="0.5s">
+                    <div className=" bg-[#fff5f3] rounded-r-3xl" data-wow-delay="0.5s">
                         <div className="flex flex-col pt-40  gap-9 p-12">
                             <h1 className="text-5xl text-black font-bold lobster">Become A Teacher</h1>
                             <p className="content text-left">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos.
