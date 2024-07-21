@@ -59,7 +59,7 @@ function Footer() {
                         <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
                         <div className="flex mx-auto border rounded-xl mt-4" >
                             <input className="bg-transparent px-8" type="text" placeholder="Your email" />
-                            <button type="button" className="bg-primary text-white py-3 px-4 mx-2 my-2 rounded-xl">SignUp</button>
+                            <button type="button" className="bg-primary text-white py-3 px-8 mx-2 my-2 rounded-xl">SignUp</button>
                         </div>
                     </div>
                 </div>

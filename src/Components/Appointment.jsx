@@ -7,7 +7,7 @@ function Appointment() {
 
             <section>
                 <div className='flex px-8 py-24'>
-                    <div className='py-6 w-[60%] bg-[#fff5f3]'>
+                    <div className='py-6 w-[60%] bg-[#fff5f3] rounded-l-xl'>
                         <h1 className='lobster text-5xl text-black px-8 py-8'>Make Appointment</h1>
                         <form>
                             <div className='flex flex-wrap gap-8 px-8'>
@@ -35,7 +35,7 @@ function Appointment() {
                         </form>
                     </div>
                     <div>
-                        <img src={appointmentImg} className='w-[100%]'></img>
+                        <img src={appointmentImg} className='w-[100%] rounded-r-xl'></img>
                     </div>
 
                 </div>
