@@ -4,7 +4,7 @@ import userImg from '../assets/user.jpg';
 function PriceCard(props) {
     return (
         <div className="flex flex-col items-center p-4 md:p-6">
-            <div className="relative w-[80%] md:w-[300px] h-[300px] md:h-[300px] border-[10px] md:border-[15px] rounded-full z-10">
+            <div className="relative -top-12 w-[80%] md:w-[300px] h-[300px] md:h-[300px] border-[10px] md:border-[15px] rounded-full z-10">
                 <img
                     className="w-full h-full object-cover rounded-full"
                     src={props.classImg}
